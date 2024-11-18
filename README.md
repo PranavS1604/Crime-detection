@@ -1,8 +1,8 @@
-# *Google Soultion Challenge*
-## SECURE VUE AI
-## **SDG-16 : Peace, Justice and strong Institutions**
+# *Crime Detection*
 
-## **AI that senses anomalies and disasters in Cctv cameras and raise alarm leading too quick and swift action**
+## **Peace, Justice and strong Institutions**
+
+## **AI that senses anomalies and disasters in CCTV cameras and raise alarm leading too quick and swift action**
 
 
 ### Table of Contents
@@ -95,20 +95,12 @@ We classified type of anomaly into these classes:
 -  These outputs are concatenated and passed through a final softmax layer for classification. The CNN comprises multiple convolutional layers followed by max-pooling and dropout for feature extraction, while the LSTM includes two LSTM layers followed by a dense layer and dropout.
 -  Finally, the models are combined, compiled, and trained using both CNN and LSTM inputs with corresponding callbacks for monitoring and logging training progress.
 -  This method involves classifying images to identify anomalies and then creating a video comprised of these frames, where each frame is annotated with the type of anomaly detected.
-![model1](model1.png "Model for classification of type of aomaly")
+![model1](model1.png "Model for classification of type of anomaly")
 
 ## **Features**
 
 ###   React Framework (Modern Design with Glassmorphism Trend Style)
 A modern and visually appealing design, incorporating the glassmorphism trend style for a sleek and contemporary appearance.
-
-### Background Video Page
-The website enhances user experience by incorporating background videos, adding a visually engaging effect to the website's background pages.
-
-
-https://github.com/toshan07/Crime-Detection/assets/120120160/ead86225-6718-49c0-b085-e4f0efe17256
-
-
 
 ### Authentication
 The website also includes the option to sign in using Google, implemented through Firebase authentication.
@@ -125,8 +117,6 @@ The website incorporates MongoDB Compass server functionality to manage user log
 
 ### Community post section
 Our website offers a distinctive Community Post section, empowering users to share insights and perspectives to raise awareness about crime prevention and safety measures. Users' contributions are visible in the Views section.
-
-![post](posts.png "Community Post Section")
 
 ### About section for building safer societies
 The About section provides users with information about the United Nations' Sustainable Development Goals and outlines strategies for achieving safer communities, promoting peace, and fostering justice among the general population.
