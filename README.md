@@ -160,7 +160,7 @@ Make sure you have the following installed on your machine:
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/toshan07/Crime-Detection
+git clone https://github.com/PranavS1604/Crime-detection
 cd Crime-Detection
 
 **Installation**
